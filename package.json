@@ -19,6 +19,6 @@
   "homepage": "https://raevlogic.github.io/Responsive-Portfolio",
   "dependencies": {
     "gh-pages": "^2.0.0",
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.11.0"
   }
 }
